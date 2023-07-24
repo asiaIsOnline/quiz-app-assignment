@@ -90,12 +90,12 @@ const questions = [
     },
 
     {
-        question: "What does the <tr> tag define ?",
-        optionA: "A table row",
-        optionB: "A table header",
-        optionC: "A table column",
-        optionD: "A table cell",
-        correct: "optionA"
+        question: "What languages are typically used to create dynamic web components ?",
+        optionA: "HTML & CSS only",
+        optionB: "HTML, CSS, and JavaScript",
+        optionC: "HTML & Python",
+        optionD: "HTML & Ruby",
+        correct: "optionB"
     },
 
     {
